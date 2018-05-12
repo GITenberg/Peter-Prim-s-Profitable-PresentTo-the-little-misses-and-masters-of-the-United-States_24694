@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24694#Peter-Prim-s-Profitable-PresentTo-the-little-misses-and-masters-of-the-United-States
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2008-02-26'
 gutenberg_type: Text
